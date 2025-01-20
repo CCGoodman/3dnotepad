@@ -7,4 +7,4 @@ A modern note-taking application featuring 3D elements and advanced editing capa
 - Create up to 8 tabs, rename them, and save work as TXT, PDF, or CSV files
 - Custom Context Menu with 11 themes, sound effects, and Background Radio (10 channels)
 - Word Suggestions for grammar fixes and word completion
-- AI-powered assistant chat to enhance productivity and helps when needed.
+- AI-powered assistant chat using mistral api to enhance productivity and helps when needed.
